@@ -499,18 +499,29 @@ img.emoji {
 						}
 					}.ast-woo-active-filter-widget .wc-block-active-filters{display:flex;align-items:self-start;justify-content:space-between;}.ast-woo-active-filter-widget .wc-block-active-filters__clear-all{flex:none;margin-top:2px;}</style>
 <style id="woocommerce-inline-inline-css">.woocommerce form .form-row .required { visibility: visible; }</style>
+<link rel="stylesheet" id="dashicons-css" href="/wp-includes/css/dashicons.css?ver=6.2" media="all">
+<link rel="stylesheet" id="cfvsw_swatches_product-css" href="/wp-content/plugins/variation-swatches-woo/assets/css/swatches.css?ver=1.0.7" media="all">
+<style id="cfvsw_swatches_product-inline-css">.cfvsw-tooltip{background:#000000;color:#ffffff;} .cfvsw-tooltip:before{background:#000000;}:root {--cfvsw-swatches-font-size: 12px;--cfvsw-swatches-border-color: #000000;--cfvsw-swatches-border-color-hover: #00000080;--cfvsw-swatches-tooltip-font-size: 12px;}</style>
 <link rel="stylesheet" id="elementor-icons-css" href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.css?ver=5.11.0" media="all">
 <link rel="stylesheet" id="elementor-animations-css" href="/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.1.4" media="all">
 <link rel="stylesheet" id="elementor-frontend-css" href="/wp-content/plugins/elementor/assets/css/frontend.css?ver=3.1.4" media="all">
-<link rel="stylesheet" id="elementor-post-1360-css" href="/wp-content/uploads/elementor/css/post-1360.css?ver=1681897072" media="all">
+<link rel="stylesheet" id="elementor-post-1360-css" href="/wp-content/uploads/elementor/css/post-1360.css?ver=1682093301" media="all">
 <link rel="stylesheet" id="elementor-pro-css" href="/wp-content/plugins/elementor-pro/assets/css/frontend.css?ver=3.2.1" media="all">
-<link rel="stylesheet" id="elementor-post-1539-css" href="/wp-content/uploads/elementor/css/post-1539.css?ver=1682068247" media="all">
-<link rel="stylesheet" id="elementor-post-1997-css" href="/wp-content/uploads/elementor/css/post-1997.css?ver=1681906401" media="all">
-<link rel="stylesheet" id="elementor-post-1769-css" href="/wp-content/uploads/elementor/css/post-1769.css?ver=1682071782" media="all">
+<link rel="stylesheet" id="elementor-post-1539-css" href="/wp-content/uploads/elementor/css/post-1539.css?ver=1682093302" media="all">
+<link rel="stylesheet" id="elementor-post-1997-css" href="/wp-content/uploads/elementor/css/post-1997.css?ver=1682093335" media="all">
+<link rel="stylesheet" id="elementor-post-1769-css" href="/wp-content/uploads/elementor/css/post-1769.css?ver=1682093302" media="all">
 <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Poiret+One%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFira+Sans+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=cyrillic&#038;ver=6.2" media="all">
 <link rel="stylesheet" id="elementor-icons-shared-0-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.1" media="all">
 <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.1" media="all">
 <link rel="stylesheet" id="elementor-icons-fa-brands-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.1" media="all">
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}<\/div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}<\/div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}<\/div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>На жаль, цей товар недоступний. Будь ласка, виберіть інше поєднання.<\/p>
+</script>
 <!--[if IE]>
 <script src='/wp-content/themes/astra/assets/js/unminified/flexibility.js?ver=4.1.3' id='astra-flexibility-js'></script>
 <script id='astra-flexibility-js-after'>
@@ -531,7 +542,11 @@ flexibility(document.documentElement);
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=%2F%25d1%2587%25d0%25be%25d0%25bc%25d1%2583-%25d0%25bc%25d0%25be%25d1%2597-%25d0%25b4%25d0%25b5%25d1%2581%25d0%25b5%25d1%2580%25d1%2582%25d0%25b8-%25d0%25bd%25d0%25b8%25d0%25b7%25d1%258c%25d0%25ba%25d0%25be%25d0%25ba%25d0%25b0%25d0%25bb%25d0%25be%25d1%2580%25d1%2596%25d0%25b9%25d0%25bd%25d1%2596%2F#038;format=xml">
 <link rel="pingback" href="/xmlrpc.php">
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-			<style id="wp-custom-css">.ast-on-card-button {
+	<link rel="icon" href="/wp-content/uploads/2023/04/icon_white_n_pink_radius200-100x100.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2023/04/icon_white_n_pink_radius200-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2023/04/icon_white_n_pink_radius200-300x300.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2023/04/icon_white_n_pink_radius200-300x300.png">
+		<style id="wp-custom-css">.ast-on-card-button {
     display: none;
 }</style>
 		</head>
@@ -823,6 +838,40 @@ flexibility(document.documentElement);
 				<div class="elementor-widget-container">
 			
 <p>Тому що без цукру, білого борошна та на знежирених молочних продуктах<br>Моя випічка підійде тим, хто перебуває в процесі схуднення, спортсменам, діабетикам і, звичайно ж, діткам. У ній немає абсолютно нічого шкідливого, на відміну від солодощів, що лежать на полицях супермаркетів. Там чого тільки не побачиш. Суцільні смакові добавки та ароматизатори. Так що давайте харчуватися правильно і тішити себе лише корисними солодощами.</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Спробуйте самі:</strong><br></p>
+<div class="woocommerce columns-3 ">
+<ul class="products columns-3">
+<li class="ast-article-single desktop-align-left tablet-align-left mobile-align-left product type-product post-1614 status-publish first instock product_cat-other has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap">
+<a href="/shop/other/%d0%b5%d0%ba%d0%bb%d0%b5%d1%80/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2023/04/ecler-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2023/04/ecler-300x300.jpeg 300w, /wp-content/uploads/2023/04/ecler-150x150.jpeg 150w, /wp-content/uploads/2023/04/ecler-100x100.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px"></a><a href="?add-to-cart=1614" data-quantity="1" class="ast-on-card-button ast-select-options-trigger product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1614" data-product_sku="" aria-label="Додайте &ldquo;Еклер&rdquo; до кошика" rel="nofollow"> <span class="ast-card-action-tooltip"> Додати в кошик </span> <span class="ahfb-svg-iconset"> <span class="ast-icon icon-bag"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="ast-bag-icon-svg" x="0px" y="0px" width="100" height="100" viewbox="826 826 140 140" enable-background="new 826 826 140 140" xml:space="preserve">
+				<path d="M960.758,934.509l2.632,23.541c0.15,1.403-0.25,2.657-1.203,3.761c-0.953,1.053-2.156,1.579-3.61,1.579H833.424  c-1.454,0-2.657-0.526-3.61-1.579c-0.952-1.104-1.354-2.357-1.203-3.761l2.632-23.541H960.758z M953.763,871.405l6.468,58.29H831.77  l6.468-58.29c0.15-1.203,0.677-2.218,1.58-3.045c0.903-0.827,1.981-1.241,3.234-1.241h19.254v9.627c0,2.658,0.94,4.927,2.82,6.807  s4.149,2.82,6.807,2.82c2.658,0,4.926-0.94,6.807-2.82s2.821-4.149,2.821-6.807v-9.627h28.882v9.627  c0,2.658,0.939,4.927,2.819,6.807c1.881,1.88,4.149,2.82,6.807,2.82s4.927-0.94,6.808-2.82c1.879-1.88,2.82-4.149,2.82-6.807v-9.627  h19.253c1.255,0,2.332,0.414,3.235,1.241C953.086,869.187,953.612,870.202,953.763,871.405z M924.881,857.492v19.254  c0,1.304-0.476,2.432-1.429,3.385s-2.08,1.429-3.385,1.429c-1.303,0-2.432-0.477-3.384-1.429c-0.953-0.953-1.43-2.081-1.43-3.385  v-19.254c0-5.315-1.881-9.853-5.641-13.613c-3.76-3.761-8.298-5.641-13.613-5.641s-9.853,1.88-13.613,5.641  c-3.761,3.76-5.641,8.298-5.641,13.613v19.254c0,1.304-0.476,2.432-1.429,3.385c-0.953,0.953-2.081,1.429-3.385,1.429  c-1.303,0-2.432-0.477-3.384-1.429c-0.953-0.953-1.429-2.081-1.429-3.385v-19.254c0-7.973,2.821-14.779,8.461-20.42  c5.641-5.641,12.448-8.461,20.42-8.461c7.973,0,14.779,2.82,20.42,8.461C922.062,842.712,924.881,849.519,924.881,857.492z"></path>
+				</svg></span> </span> </a>
+</div>
+<div class="astra-shop-summary-wrap">
+<a href="/shop/other/%d0%b5%d0%ba%d0%bb%d0%b5%d1%80/" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Еклер</h2></a>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>60&nbsp;<span class="woocommerce-Price-currencySymbol">&#8372;</span></bdi></span></span>
+</div>
+</li>
+<li class="ast-article-single desktop-align-left tablet-align-left mobile-align-left product type-product post-1491 status-publish instock product_cat-cakes has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap">
+<a href="/shop/cakes/%d1%88%d0%be%d0%ba%d0%be%d0%bb%d0%b0%d0%b4%d0%bd%d0%be-%d1%8f%d0%b3%d1%96%d0%b4%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d1%80%d1%82-%d0%b7-%d1%87%d1%96%d0%b7%d0%ba%d0%b5%d0%b9%d0%ba%d0%be%d0%bc/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="/wp-content/uploads/2023/04/cheezcake_01-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="/wp-content/uploads/2023/04/cheezcake_01-300x300.jpeg 300w, /wp-content/uploads/2023/04/cheezcake_01-1024x1024.jpeg 1024w, /wp-content/uploads/2023/04/cheezcake_01-150x150.jpeg 150w, /wp-content/uploads/2023/04/cheezcake_01-768x768.jpeg 768w, /wp-content/uploads/2023/04/cheezcake_01-600x600.jpeg 600w, /wp-content/uploads/2023/04/cheezcake_01-100x100.jpeg 100w, /wp-content/uploads/2023/04/cheezcake_01.jpeg 1440w" sizes="(max-width: 300px) 100vw, 300px"></a><a href="?add-to-cart=1491" data-quantity="1" class="ast-on-card-button ast-select-options-trigger product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1491" data-product_sku="" aria-label="Додайте &ldquo;Шоколадно-Ягідний Торт з Ягідним Чізкейком&rdquo; до кошика" rel="nofollow"> <span class="ast-card-action-tooltip"> Додати в кошик </span> <span class="ahfb-svg-iconset"> <span class="ast-icon icon-bag"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="ast-bag-icon-svg" x="0px" y="0px" width="100" height="100" viewbox="826 826 140 140" enable-background="new 826 826 140 140" xml:space="preserve">
+				<path d="M960.758,934.509l2.632,23.541c0.15,1.403-0.25,2.657-1.203,3.761c-0.953,1.053-2.156,1.579-3.61,1.579H833.424  c-1.454,0-2.657-0.526-3.61-1.579c-0.952-1.104-1.354-2.357-1.203-3.761l2.632-23.541H960.758z M953.763,871.405l6.468,58.29H831.77  l6.468-58.29c0.15-1.203,0.677-2.218,1.58-3.045c0.903-0.827,1.981-1.241,3.234-1.241h19.254v9.627c0,2.658,0.94,4.927,2.82,6.807  s4.149,2.82,6.807,2.82c2.658,0,4.926-0.94,6.807-2.82s2.821-4.149,2.821-6.807v-9.627h28.882v9.627  c0,2.658,0.939,4.927,2.819,6.807c1.881,1.88,4.149,2.82,6.807,2.82s4.927-0.94,6.808-2.82c1.879-1.88,2.82-4.149,2.82-6.807v-9.627  h19.253c1.255,0,2.332,0.414,3.235,1.241C953.086,869.187,953.612,870.202,953.763,871.405z M924.881,857.492v19.254  c0,1.304-0.476,2.432-1.429,3.385s-2.08,1.429-3.385,1.429c-1.303,0-2.432-0.477-3.384-1.429c-0.953-0.953-1.43-2.081-1.43-3.385  v-19.254c0-5.315-1.881-9.853-5.641-13.613c-3.76-3.761-8.298-5.641-13.613-5.641s-9.853,1.88-13.613,5.641  c-3.761,3.76-5.641,8.298-5.641,13.613v19.254c0,1.304-0.476,2.432-1.429,3.385c-0.953,0.953-2.081,1.429-3.385,1.429  c-1.303,0-2.432-0.477-3.384-1.429c-0.953-0.953-1.429-2.081-1.429-3.385v-19.254c0-7.973,2.821-14.779,8.461-20.42  c5.641-5.641,12.448-8.461,20.42-8.461c7.973,0,14.779,2.82,20.42,8.461C922.062,842.712,924.881,849.519,924.881,857.492z"></path>
+				</svg></span> </span> </a>
+</div>
+<div class="astra-shop-summary-wrap">
+<a href="/shop/cakes/%d1%88%d0%be%d0%ba%d0%be%d0%bb%d0%b0%d0%b4%d0%bd%d0%be-%d1%8f%d0%b3%d1%96%d0%b4%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d1%80%d1%82-%d0%b7-%d1%87%d1%96%d0%b7%d0%ba%d0%b5%d0%b9%d0%ba%d0%be%d0%bc/" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">Шоколадно-Ягідний Торт з Ягідним Чізкейком</h2></a>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>400&nbsp;<span class="woocommerce-Price-currencySymbol">&#8372;</span></bdi></span></span>
+</div>
+</li>
+</ul>
+</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-96ab2dc elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="96ab2dc" data-element_type="widget" data-widget_type="divider.default">
@@ -1027,12 +1076,19 @@ flexibility(document.documentElement);
 <script src="/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=7.6.0" id="woocommerce-js"></script>
 <script id="wc-cart-fragments-js-extra">var wc_cart_fragments_params = {"ajax_url":"\/medkova\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/medkova\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3b14ea4d503ec4e7cf30522e28224c00","fragment_name":"wc_fragments_3b14ea4d503ec4e7cf30522e28224c00","request_timeout":"5000"};</script>
 <script src="/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=7.6.0" id="wc-cart-fragments-js"></script>
+<script src="/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/medkova\/wp-admin\/admin-ajax.php"}};</script>
+<script src="/wp-includes/js/wp-util.js?ver=6.2" id="wp-util-js"></script>
+<script id="wc-add-to-cart-variation-js-extra">var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/medkova\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"На жаль, немає товарів, які б відповідали вашому вибору. Будь ласка, виберіть інше поєднання.","i18n_make_a_selection_text":"Будь ласка оберіть варіанти товару, перш ніж додавати цей товар до кошика.","i18n_unavailable_text":"На жаль, цей товар недоступний. Будь ласка, виберіть інше поєднання."};</script>
+<script src="/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.js?ver=7.6.0" id="wc-add-to-cart-variation-js"></script>
+<script id="cfvsw_swatches_product-js-extra">var cfvsw_swatches_settings = {"ajax_url":"\/wp-admin\/admin-ajax.php","admin_url":"\/wp-admin\/admin.php","remove_attr_class":"cfvsw-swatches-blur","html_design":"none","unavailable_text":"Selected variant is unavailable.","ajax_add_to_cart_nonce":"9dbfdb0115","tooltip_image":"","disable_out_of_stock":"1"};</script>
+<script src="/wp-content/plugins/variation-swatches-woo/assets/js/swatches.js?ver=1.0.7" id="cfvsw_swatches_product-js"></script>
 <script src="/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.js?ver=1.0.1" id="smartmenus-js"></script>
 <script src="/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.js?ver=3.2.1" id="elementor-pro-webpack-runtime-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.1.4" id="elementor-webpack-runtime-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.1.4" id="elementor-frontend-modules-js"></script>
 <script src="/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.js?ver=3.2.1" id="elementor-sticky-js"></script>
-<script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1d142762ae","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"\/cart\/","checkout_page_url":"\/checkout\/"},"facebook_sdk":{"lang":"uk","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
+<script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"c362582ee3","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"\/cart\/","checkout_page_url":"\/checkout\/"},"facebook_sdk":{"lang":"uk","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
 <script src="/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.2.1" id="elementor-pro-frontend-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.js?ver=1.13.2" id="jquery-ui-core-js"></script>
 <script src="/wp-content/plugins/elementor/assets/lib/dialog/dialog.js?ver=4.8.1" id="elementor-dialog-js"></script>

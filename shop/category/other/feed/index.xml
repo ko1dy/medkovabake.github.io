@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/icon_white_n_pink_radius200-100x100.png</url>
+	<title>Різне &#8211; Medkova Bake</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Еклер</title>
 		<link>/shop/other/%d0%b5%d0%ba%d0%bb%d0%b5%d1%80/</link>
