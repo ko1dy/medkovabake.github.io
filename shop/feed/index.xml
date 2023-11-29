@@ -12,13 +12,13 @@
 	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Без цукру &#124; Низькокалорійні торти і десерти &#124; Київ</description>
-	<lastBuildDate>Mon, 17 Apr 2023 16:44:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Nov 2023 14:01:50 +0000</lastBuildDate>
 	<language>uk</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/04/icon_white_n_pink_radius200-100x100.png</url>
@@ -28,81 +28,160 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Фрезʼє</title>
-		<link>/shop/cakes/%d1%84%d1%80%d0%b5%d0%b7%ca%bc%d1%94/</link>
+		<title>Меренговий рулет з ягодами</title>
+		<link>/shop/desserts/%d0%bc%d0%b5%d1%80%d0%b5%d0%bd%d0%b3%d0%be%d0%b2%d0%b8%d0%b9-%d1%80%d1%83%d0%bb%d0%b5%d1%82-%d0%b7-%d1%8f%d0%b3%d0%be%d0%b4%d0%b0%d0%bc%d0%b8/</link>
 		
 		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 16:44:06 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1652</guid>
+		<pubDate>Sun, 26 Nov 2023 13:51:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2477</guid>
 
-					<description><![CDATA[* Ціна вказана за 1 кг! Середня вага торту ± 1.3 кг]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за 1 кг! Середня вага торту ± 1.3 кг</strong></p>
+					<description><![CDATA[* Ціна вказана за цілий рулет Ніжна, немов хмаринка, меренга у поєднанні з ванільним кремом та ягодами]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий рулет</strong></p>
+<p><span data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ніжна, немов хмаринка, меренга у поєднанні з ванільним кремом та ягодами &quot;}" data-sheets-userformat="{&quot;2&quot;:4739,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:14281427},&quot;10&quot;:2,&quot;12&quot;:0,&quot;15&quot;:&quot;Arial&quot;}">Ніжна, немов хмаринка, меренга у поєднанні з ванільним кремом та ягодами </span></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Еклер</title>
-		<link>/shop/other/%d0%b5%d0%ba%d0%bb%d0%b5%d1%80/</link>
+		<title>Снікерс</title>
+		<link>/shop/cheesecakes/%d1%81%d0%bd%d1%96%d0%ba%d0%b5%d1%80%d1%81-2/</link>
 		
 		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 16:25:24 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1614</guid>
+		<pubDate>Sat, 25 Nov 2023 23:45:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2437</guid>
 
-					<description><![CDATA[*ціна за 1 штуку. Мінімальне замовлення &#8211; 4 шт. Три смаки: &#8211; груша-дор блю. Заварний крем на пряженому молоці у поєднанні з грошовим пюре і сиром дор блю &#8211; шоколад-фундук. Заварний крем на пряженому молоці з додаванням шоколаду, шматочків смаженого фундука і фундучної пасти &#8211; полуничний. Заварний крем на пряженому молоці з полуничним соусом.]]></description>
-										<content:encoded><![CDATA[<p><strong>*ціна за 1 штуку. Мінімальне замовлення &#8211; 4 шт.</strong></p>
-<p>Три смаки:<br />
-&#8211; груша-дор блю. Заварний крем на пряженому молоці у поєднанні з грошовим пюре і сиром дор блю<br />
-&#8211; шоколад-фундук. Заварний крем на пряженому молоці з додаванням шоколаду, шматочків смаженого фундука і фундучної пасти<br />
-&#8211; полуничний. Заварний крем на пряженому молоці з полуничним соусом.</p>
+					<description><![CDATA[* Ціна вказана за цілий цізкейк вагою ± 1.4 кг &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий цізкейк вагою ± 1.4 кг</strong></p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Захер</title>
-		<link>/shop/cakes/%d0%b7%d0%b0%d1%85%d0%b5%d1%80/</link>
+		<title>Манго-лайм-кокос</title>
+		<link>/shop/cheesecakes/%d0%bc%d0%b0%d0%bd%d0%b3%d0%be-%d0%bb%d0%b0%d0%b9%d0%bc-%d0%ba%d0%be%d0%ba%d0%be%d1%81/</link>
 		
 		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 16:06:02 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1605</guid>
+		<pubDate>Sat, 25 Nov 2023 23:44:23 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2434</guid>
 
-					<description><![CDATA[* Ціна вказана за 1 кг! Середня вага торту ± 1.3 кг]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за 1 кг! Середня вага торту ± 1.3 кг</strong></p>
+					<description><![CDATA[*ціна вказана за цілий цізкейк вагою ± 1.4 кг &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>*ціна вказана за цілий цізкейк вагою ± 1.4 кг</strong></p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Мигдалевий з полуницею</title>
-		<link>/shop/cakes/%d0%bc%d0%b8%d0%b3%d0%b4%d0%b0%d0%bb%d0%b5%d0%b2%d0%b8%d0%b9-%d0%b7-%d0%bf%d0%be%d0%bb%d1%83%d0%bd%d0%b8%d1%86%d0%b5%d1%8e/</link>
+		<title>Грушевий з Дор блю і волоським горіхом</title>
+		<link>/shop/cheesecakes/%d0%b3%d1%80%d1%83%d1%88%d0%b5%d0%b2%d0%b8%d0%b9-%d0%b7-%d0%b4%d0%be%d1%80-%d0%b1%d0%bb%d1%8e-%d1%96-%d0%b2%d0%be%d0%bb%d0%be%d1%81%d1%8c%d0%ba%d0%b8%d0%bc-%d0%b3%d0%be%d1%80%d1%96%d1%85%d0%be%d0%bc/</link>
 		
 		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 15:57:45 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1601</guid>
+		<pubDate>Sat, 25 Nov 2023 23:43:06 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2431</guid>
 
-					<description><![CDATA[* Ціна вказана за 1 кг! Середня вага торту ± 1.3 кг]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за 1 кг! Середня вага торту ± 1.3 кг</strong></p>
+					<description><![CDATA[*ціна вказана за цілий цізкейк вагою ± 1.6 кг &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>*ціна вказана за цілий цізкейк вагою ± 1.6 кг</strong></p>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Шоколадно-Ягідний Торт з Ягідним Чізкейком</title>
-		<link>/shop/cakes/%d1%88%d0%be%d0%ba%d0%be%d0%bb%d0%b0%d0%b4%d0%bd%d0%be-%d1%8f%d0%b3%d1%96%d0%b4%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d1%80%d1%82-%d0%b7-%d1%87%d1%96%d0%b7%d0%ba%d0%b5%d0%b9%d0%ba%d0%be%d0%bc/</link>
+		<title>Ягідний</title>
+		<link>/shop/cheesecakes/%d1%8f%d0%b3%d1%96%d0%b4%d0%bd%d0%b8%d0%b9/</link>
 		
 		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Mon, 17 Apr 2023 10:04:02 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=1491</guid>
+		<pubDate>Sat, 25 Nov 2023 23:41:44 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2428</guid>
 
-					<description><![CDATA[* Ціна вказана за 1 кг! Середня вага торту ± 1.2 кг Агов, літо!!!! Ти що закінчуєшся вже??? Зачекай ще трошечки, дощу не дуже вже й хочеться))) Сонячні промені є на літніх тортиках)))]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за 1 кг! Середня вага торту ± 1.2 кг</strong></p>
-<p>Агов, літо!!!! Ти що закінчуєшся вже??? Зачекай ще трошечки, дощу не дуже вже й хочеться)))</p>
-<p>Сонячні промені є на літніх тортиках)))</p>
+					<description><![CDATA[*ціна вказана за цілий цізкейк вагою ± 1.4 кг &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>*ціна вказана за цілий цізкейк вагою ± 1.4 кг</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Морквяний з фініковою карамеллю</title>
+		<link>/shop/cheesecakes/%d0%bc%d0%be%d1%80%d0%ba%d0%b2%d1%8f%d0%bd%d0%b8%d0%b9-%d0%b7-%d1%84%d1%96%d0%bd%d1%96%d0%ba%d0%be%d0%b2%d0%be%d1%8e-%d0%ba%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d0%bb%d0%bb%d1%8e/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 23:40:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2425</guid>
+
+					<description><![CDATA[*ціна вказана за цілий цізкейк вагою ± 1.4 кг &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>*ціна вказана за цілий цізкейк вагою ± 1.4 кг</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Класичний Нью-Йорк</title>
+		<link>/shop/cheesecakes/%d0%ba%d0%bb%d0%b0%d1%81%d0%b8%d1%87%d0%bd%d0%b8%d0%b9-%d0%bd%d1%8c%d1%8e-%d0%b9%d0%be%d1%80%d0%ba/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 23:38:22 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2422</guid>
+
+					<description><![CDATA[*ціна вказана за цілий цізкейк вагою ± 1.1 кг &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>*ціна вказана за цілий цізкейк вагою ± 1.1 кг</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Чорничний меренговий рулет з лимонним курдом</title>
+		<link>/shop/desserts/%d1%87%d0%be%d1%80%d0%bd%d0%b8%d1%87%d0%bd%d0%b8%d0%b9-%d0%bc%d0%b5%d1%80%d0%b5%d0%bd%d0%b3%d0%be%d0%b2%d0%b8%d0%b9-%d1%80%d1%83%d0%bb%d0%b5%d1%82-%d0%b7-%d0%bb%d0%b8%d0%bc%d0%be%d0%bd%d0%bd%d0%b8/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 23:19:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2415</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий рулет &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий рулет</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Лимонний тарт</title>
+		<link>/shop/desserts/%d0%bb%d0%b8%d0%bc%d0%be%d0%bd%d0%bd%d0%b8%d0%b9-%d1%82%d0%b0%d1%80%d1%82/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 23:16:01 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2412</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий тарт Кригка пісочна тарта з лимонним курдом та запеченою]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий тарт</strong></p>
+<p><span data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;кригка пісочна тарта з лимонним курдом та запеченою &quot;}" data-sheets-userformat="{&quot;2&quot;:4737,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:2,&quot;12&quot;:0,&quot;15&quot;:&quot;Arial&quot;}">Кригка пісочна тарта з лимонним курдом та запеченою </span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Брауні банановий</title>
+		<link>/shop/desserts/%d0%b1%d1%80%d0%b0%d1%83%d0%bd%d1%96-%d0%b1%d0%b0%d0%bd%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d0%b9/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Sat, 25 Nov 2023 23:12:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2409</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий десерт Для справжніх поціновувачів шоколаду соковитий шоколадний десерт]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий десерт</strong></p>
+<p>Для справжніх поціновувачів шоколаду соковитий шоколадний десерт</p>
 ]]></content:encoded>
 					
 		
