@@ -12,7 +12,7 @@
 	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Без цукру &#124; Низькокалорійні торти і десерти &#124; Київ</description>
-	<lastBuildDate>Thu, 30 Nov 2023 10:06:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Dec 2023 11:37:33 +0000</lastBuildDate>
 	<language>uk</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Торт Пряний медовик з грушею</title>
+		<link>/shop/xmass/%d1%82%d0%be%d1%80%d1%82-%d0%bf%d1%80%d1%8f%d0%bd%d0%b8%d0%b9-%d0%bc%d0%b5%d0%b4%d0%be%d0%b2%d0%b8%d0%ba-%d0%b7-%d0%b3%d1%80%d1%83%d1%88%d0%b5%d1%8e/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 11:33:44 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2775</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий торт. Вага 1 кг. &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий торт. Вага 1 кг.</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Кекс морквяний з сухофруктами і волоським горіхом</title>
+		<link>/shop/xmass/%d0%ba%d0%b5%d0%ba%d1%81-%d0%bc%d0%be%d1%80%d0%ba%d0%b2%d1%8f%d0%bd%d0%b8%d0%b9-%d0%b7-%d1%81%d1%83%d1%85%d0%be%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%b0%d0%bc%d0%b8-%d1%96-%d0%b2%d0%be%d0%bb%d0%be%d1%81/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 11:30:10 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2773</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий кекс. Вага 550 г. &#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий кекс. Вага 550 г.</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Штолен шоколадний з горіхами</title>
+		<link>/shop/xmass/%d1%88%d1%82%d0%be%d0%bb%d0%b5%d0%bd-%d1%88%d0%be%d0%ba%d0%be%d0%bb%d0%b0%d0%b4%d0%bd%d0%b8%d0%b9-%d0%b7-%d0%b3%d0%be%d1%80%d1%96%d1%85%d0%b0%d0%bc%d0%b8/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 11:28:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2771</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий штолен. Вага 550 г. Для тих, хто не любить сухофрукти у випічці]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий штолен. Вага 550 г.</strong></p>
+<p>Для тих, хто не любить сухофрукти у випічці</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Штолен класичний бездріжджовий з сухофруктами, вимоченими в апельсиновому фреші та горіхами</title>
+		<link>/shop/xmass/%d1%88%d1%82%d0%be%d0%bb%d0%b5%d0%bd-%d0%ba%d0%bb%d0%b0%d1%81%d0%b8%d1%87%d0%bd%d0%b8%d0%b9-%d0%b1%d0%b5%d0%b7%d0%b4%d1%80%d1%96%d0%b6%d0%b4%d0%b6%d0%be%d0%b2%d0%b8%d0%b9/</link>
+		
+		<dc:creator><![CDATA[medkova]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 11:26:03 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=2769</guid>
+
+					<description><![CDATA[* Ціна вказана за цілий штолен. Вага 650 г.]]></description>
+										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий штолен. Вага 650 г.</strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Меренговий рулет з ягодами</title>
 		<link>/shop/desserts/%d0%bc%d0%b5%d1%80%d0%b5%d0%bd%d0%b3%d0%be%d0%b2%d0%b8%d0%b9-%d1%80%d1%83%d0%bb%d0%b5%d1%82-%d0%b7-%d1%8f%d0%b3%d0%be%d0%b4%d0%b0%d0%bc%d0%b8/</link>
 		
@@ -120,70 +183,6 @@
 					<description><![CDATA[* Ціна вказана за цілий цізкейк вагою ± 1.4 кг &#160;]]></description>
 										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий цізкейк вагою ± 1.4 кг</strong></p>
 <p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Класичний Нью-Йорк</title>
-		<link>/shop/cheesecakes/%d0%ba%d0%bb%d0%b0%d1%81%d0%b8%d1%87%d0%bd%d0%b8%d0%b9-%d0%bd%d1%8c%d1%8e-%d0%b9%d0%be%d1%80%d0%ba/</link>
-		
-		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Sat, 25 Nov 2023 23:38:22 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2422</guid>
-
-					<description><![CDATA[* Ціна вказана за цілий цізкейк вагою ± 1.1 кг &#160;]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий цізкейк вагою ± 1.1 кг</strong></p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Чорничний меренговий рулет з лимонним курдом</title>
-		<link>/shop/desserts/%d1%87%d0%be%d1%80%d0%bd%d0%b8%d1%87%d0%bd%d0%b8%d0%b9-%d0%bc%d0%b5%d1%80%d0%b5%d0%bd%d0%b3%d0%be%d0%b2%d0%b8%d0%b9-%d1%80%d1%83%d0%bb%d0%b5%d1%82/</link>
-		
-		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Sat, 25 Nov 2023 23:19:36 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2415</guid>
-
-					<description><![CDATA[* Ціна вказана за цілий рулет &#160;]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий рулет</strong></p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Лимонний тарт</title>
-		<link>/shop/desserts/%d0%bb%d0%b8%d0%bc%d0%be%d0%bd%d0%bd%d0%b8%d0%b9-%d1%82%d0%b0%d1%80%d1%82/</link>
-		
-		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Sat, 25 Nov 2023 23:16:01 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2412</guid>
-
-					<description><![CDATA[* Ціна вказана за цілий тарт Кригка пісочна тарта з лимонним курдом та запеченою]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий тарт</strong></p>
-<p><span data-sheets-root="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;кригка пісочна тарта з лимонним курдом та запеченою &quot;}" data-sheets-userformat="{&quot;2&quot;:4737,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:2,&quot;12&quot;:0,&quot;15&quot;:&quot;Arial&quot;}">Кригка пісочна тарта з лимонним курдом та запеченою </span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Брауні банановий</title>
-		<link>/shop/desserts/%d0%b1%d1%80%d0%b0%d1%83%d0%bd%d1%96-%d0%b1%d0%b0%d0%bd%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d0%b9/</link>
-		
-		<dc:creator><![CDATA[medkova]]></dc:creator>
-		<pubDate>Sat, 25 Nov 2023 23:12:50 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=2409</guid>
-
-					<description><![CDATA[* Ціна вказана за цілий десерт Для справжніх поціновувачів шоколаду соковитий шоколадний десерт]]></description>
-										<content:encoded><![CDATA[<p><strong>* Ціна вказана за цілий десерт</strong></p>
-<p>Для справжніх поціновувачів шоколаду соковитий шоколадний десерт</p>
 ]]></content:encoded>
 					
 		
